@@ -55,12 +55,6 @@ I'm also fluent in **English**, so feel free to connect!
 
 ---
 
-## 🏆 GitHub Trophies
-
-[![trophy](https://github-profile-trophy.vercel.app/?username=hc8841&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
-
----
-
 ## 📂 Recent Activity
 
 [![GitHub Stats](https://github-readme-stats.vercel.app/api?username=hc8841&show_icons=true&theme=tokyonight&count_private=true)](https://github.com/hc8841)
