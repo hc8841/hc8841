@@ -49,8 +49,8 @@ I'm also fluent in **English**, so feel free to connect!
 ## 🛡️ Certifications (IBSEC)
 
 <p align="left">
-  <img src="assets/PTIC-LNX-1180.png" width="130" alt="IBSEC Linux Certificate">
-  <img src="assets/PTIC-SEC-1780.png" width="130" alt="IBSEC Security Certificate">
+  <img src="assets/PT-IC-LNX-1180.png" width="130" alt="IBSEC Linux Certificate">
+  <img src="assets/PT-IC-SEC-1780.png" width="130" alt="IBSEC Security Certificate">
 </p>
 
 ---
