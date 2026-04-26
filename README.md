@@ -1,6 +1,6 @@
 ## 👋 Welcome to my GitHub Profile
 
-Hey! I'm **Henrique**, a 19-year-old tech enthusiast from Brazil 🇧🇷.  
+Hey! I'm **Henrique**, a 20-year-old tech enthusiast from Brazil 🇧🇷.  
 Former student at **IFC - São Bento do Sul**, where I completed my **Technical High School in Computer Science**.
 
 I'm **autistic (level 1)**, with **Savant Syndrome under investigation**, and I've always had a deep interest in **microcontrollers**, **low-level programming**, and understanding how things work at their core.
