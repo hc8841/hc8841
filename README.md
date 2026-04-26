@@ -62,8 +62,6 @@ Feel free to reach out if you’re into radio stuff too!
 **Email (Secondary):** [henriquepu5hef@gmail.com](mailto:henriquepu5hef@gmail.com)
 
 **Phone (Primary):** +55 47 99673-6277  
-**Phone (Secondary):** +55 47 99606-1835
-
 ---
 
 > "I see technology not just as a tool, but as a philosophy. The deeper we go, the more we understand ourselves."
