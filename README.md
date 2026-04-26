@@ -21,16 +21,37 @@ I'm also fluent in **English**, so feel free to connect!
 
 ## 💻 Tech Stack
 
+### 🚀 Programming & Low-Level
 ![C](https://img.shields.io/badge/-C-00599C?style=flat-square&logo=c)
 ![C++](https://img.shields.io/badge/-C++-00599C?style=flat-square&logo=c%2B%2B)
-![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python)
 ![Assembly](https://img.shields.io/badge/-Assembly-525252?style=flat-square)
-![Arduino](https://img.shields.io/badge/-Arduino-00979D?style=flat-square&logo=arduino)
+![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python)
 ![Java](https://img.shields.io/badge/-Java-007396?style=flat-square&logo=java)
 ![Kotlin](https://img.shields.io/badge/-Kotlin-0095D5?style=flat-square&logo=kotlin)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
-![HTML](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
+
+### 🔩 Hardware & Embedded Systems
+![Arduino](https://img.shields.io/badge/-Arduino-00979D?style=flat-square&logo=arduino)
+![ESP32](https://img.shields.io/badge/-ESP32-E7352C?style=flat-square&logo=espressif)
+![Hardware Hacking](https://img.shields.io/badge/-Hardware%20Hacking-CC0000?style=flat-square&logo=flipperzero)
+![Soldering](https://img.shields.io/badge/-Soldering-black?style=flat-square)
+![NFC/RFID](https://img.shields.io/badge/-NFC%2FRFID-00A1E1?style=flat-square)
+
+### 🐧 OS & Tools
+![Arch Linux](https://img.shields.io/badge/-Arch%20Linux-1793D1?style=flat-square&logo=arch-linux)
+![Shell Script](https://img.shields.io/badge/-Shell%20Script-4EAA25?style=flat-square&logo=gnu-bash)
+![Git](https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git)
+![HTML](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5)
 ![CSS](https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3)
+
+---
+
+## 🛡️ Certifications (IBSEC)
+
+<p align="left">
+  <img src="assets/PTIC-LNX-1180.png" width="130" alt="IBSEC Linux Certificate">
+  <img src="assets/PTIC-SEC-1780.png" width="130" alt="IBSEC Security Certificate">
+</p>
 
 ---
 
@@ -61,8 +82,6 @@ Feel free to reach out if you’re into radio stuff too!
 **Email (Primary):** [henriquemattos841@gmail.com](mailto:henriquemattos841@gmail.com)  
 **Email (Secondary):** [henriquepu5hef@gmail.com](mailto:henriquepu5hef@gmail.com)
 
-**Phone (Primary):** +55 47 99673-6277  
 ---
 
 > "I see technology not just as a tool, but as a philosophy. The deeper we go, the more we understand ourselves."
-
