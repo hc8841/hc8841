@@ -57,7 +57,7 @@ I'm also fluent in **English**, so feel free to connect!
 
 ## 🏆 GitHub Trophies
 
-[![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=hc8841&theme=tokyonight&title=Stars,Commits,Followers,PullRequest,Issues,Repositories&margin-w=10&margin-h=10)](https://github.com/ryo-ma/github-profile-trophy)
+[![trophy](https://github-profile-trophy.vercel.app/?username=hc8841&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
 
 ---
 
