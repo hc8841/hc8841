@@ -14,10 +14,12 @@ Sou **autista (nível 1)**, com **Síndrome de Savant sob investigação**, e se
 ## 🧠 Sobre Mim
 
 - 🔩 Apaixonado por **microcontroladores** e **sistemas embarcados**
+- 🌐 **Portfólio:** [hc8841.github.io](https://hc8841.github.io)
+- 📄 **Currículos e Certificados:** [Acesse aqui](https://drive.google.com/drive/folders/1k7mJwBy7egEE-h_HCGNXxc6mR8M9QGmY)
 - 🧠 Amante de **Filosofia**, especialmente as obras de **Nietzsche** e **Schopenhauer**
 - 📡 **Radioamador** licenciado – indicativo **PU5HEF**
 - 🔧 Interessado em **desenvolvimento de baixo nível**, debugging e engenharia reversa
-- 💬 Meu **inglês** é bom para leitura, mas ainda estou praticando a fala e a escuta.
+- 💬 **Idiomas:** Minha leitura em inglês é boa, mas ainda estou praticando a fala e a escuta.
 
 ---
 
@@ -90,10 +92,12 @@ I'm **autistic (level 1)**, with **Savant Syndrome under investigation**, and I'
 ## 🧠 About Me
 
 - 🔩 Passionate about **microcontrollers** and **embedded systems**
+- 🌐 **Portfolio:** [hc8841.github.io](https://hc8841.github.io)
+- 📄 **Resume & Certificates:** [Access here](https://drive.google.com/drive/folders/1k7mJwBy7egEE-h_HCGNXxc6mR8M9QGmY)
 - 🧠 Lover of **Philosophy**, especially the works of **Nietzsche** and **Schopenhauer**
 - 📡 Licensed **ham radio operator** – callsign **PU5HEF**
 - 🔧 Into **low-level development**, debugging, and reverse engineering
-- 💬 My **English** reading is solid, but I'm still working on my speaking and listening skills.
+- 💬 **Languages:** My English reading is solid, but I'm still working on my speaking and listening skills.
 
 ---
 
