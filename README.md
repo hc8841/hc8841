@@ -17,7 +17,7 @@ Sou **autista (nível 1)**, com **Síndrome de Savant sob investigação**, e se
 - 🧠 Amante de **Filosofia**, especialmente as obras de **Nietzsche** e **Schopenhauer**
 - 📡 **Radioamador** licenciado – indicativo **PU5HEF**
 - 🔧 Interessado em **desenvolvimento de baixo nível**, debugging e engenharia reversa
-- 💬 Falo **inglês** fluentemente
+- 💬 Meu **inglês** é bom para leitura, mas ainda estou praticando a fala e a escuta.
 
 ---
 
@@ -72,7 +72,7 @@ Sinta-se à vontade para entrar em contato se você também curte rádio!
 
 ---
 
-> "Vejo a tecnologia não apenas como uma ferramenta, mas como uma filosofia. Quanto mais fundo vamos, mais entendemos a nós mesmos."
+> "Na computação e na vida, somos eternos iniciantes." — *Henrique Chaves*
 
 <br><br>
 <hr>
@@ -93,7 +93,7 @@ I'm **autistic (level 1)**, with **Savant Syndrome under investigation**, and I'
 - 🧠 Lover of **Philosophy**, especially the works of **Nietzsche** and **Schopenhauer**
 - 📡 Licensed **ham radio operator** – callsign **PU5HEF**
 - 🔧 Into **low-level development**, debugging, and reverse engineering
-- 💬 I speak **English** fluently
+- 💬 My **English** reading is solid, but I'm still working on my speaking and listening skills.
 
 ---
 
@@ -148,4 +148,4 @@ Feel free to reach out if you’re into radio stuff too!
 
 ---
 
-> "I see technology not just as a tool, but as a philosophy. The deeper we go, the more we understand ourselves."
+> "In computing and in life, we are eternal beginners." — *Henrique Chaves*
