@@ -5,7 +5,7 @@ Former student at **IFC - São Bento do Sul**, where I completed my **Technical 
 
 I'm **autistic (level 1)**, with **Savant Syndrome under investigation**, and I've always had a deep interest in **microcontrollers**, **low-level programming**, and understanding how things work at their core.
 
-I'm also fluent in **English**, so feel free to connect!
+I'm not 100% fluent in **English**, so feel free to connect!
 
 ---
 
