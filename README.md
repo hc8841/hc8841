@@ -55,13 +55,6 @@ I'm also fluent in **English**, so feel free to connect!
 
 ---
 
-## 📂 Recent Activity
-
-[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=hc8841&show_icons=true&theme=tokyonight&count_private=true)](https://github.com/hc8841)
-
-[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=hc8841&layout=compact&theme=tokyonight)](https://github.com/hc8841)
-
----
 
 ## 📡 Ham Radio
 
@@ -74,7 +67,7 @@ Feel free to reach out if you’re into radio stuff too!
 ## 📫 Contact Me
 
 **Email (Primary):** [henriquemattos841@gmail.com](mailto:henriquemattos841@gmail.com)  
-**Email (Secondary):** [henriquepu5hef@gmail.com](mailto:henriquepu5hef@gmail.com)
+**Email (Secondary):** [medusa0841@proton.me](mailto:medusa0841@proton.me)
 
 ---
 
