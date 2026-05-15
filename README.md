@@ -55,6 +55,8 @@ Sou **autista (nível 1)**, com **Síndrome de Savant sob investigação**, e se
 <p align="left">
   <img src="assets/PT-IC-LNX-1180.png" width="130" alt="Certificado Linux IBSEC">
   <img src="assets/PT-IC-SEC-1780.png" width="130" alt="Certificado Segurança IBSEC">
+  <img src="assets/PT-IC-SOC-380.png" width="130">
+  <img src="assets/PT-IC-LNX-1183.png" width="130">
 </p>
 
 ---
@@ -133,6 +135,8 @@ I'm **autistic (level 1)**, with **Savant Syndrome under investigation**, and I'
 <p align="left">
   <img src="assets/PT-IC-LNX-1180.png" width="130" alt="IBSEC Linux Certificate">
   <img src="assets/PT-IC-SEC-1780.png" width="130" alt="IBSEC Security Certificate">
+  <img src="assets/PT-IC-SOC-380.png" width="130">
+  <img src="assets/PT-IC-LNX-1183.png" width="130">
 </p>
 
 ---
